@@ -1,0 +1,1280 @@
+alexnet	128	0,1,2,3,4,5,6,7
+cpu average usage: 3643.33429603
+memory average usage:3.7892599278
+alexnet	128	0,1,2,3,4,5,6,7
+alexnet	128	0,1,2,3,4,5,6,7
+GPU0 average usage: 11.1792294807
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 247299.832496
+GPU0 average rx usage: 341780.569514
+GPU1 average usage: 8.98994974874
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 206914.572864
+GPU1 average rx usage: 400314.907873
+GPU2 average usage: 9.0351758794
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 292569.514238
+GPU2 average rx usage: 485264.656616
+GPU3 average usage: 10.2512562814
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 223544.38861
+GPU3 average rx usage: 463338.358459
+GPU4 average usage: 11.0552763819
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 310663.316583
+GPU4 average rx usage: 468747.068677
+GPU5 average usage: 10.9798994975
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 159680.067002
+GPU5 average rx usage: 363726.968174
+GPU6 average usage: 8.46063651591
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 245025.125628
+GPU6 average rx usage: 467368.509213
+GPU7 average usage: 10.5778894472
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 309375.20938
+GPU7 average rx usage: 619909.547739
+alexnet	128	0,1,2,3
+cpu average usage: 3460.58457143
+memory average usage:2.10495238095
+alexnet	128	0,1,2,3
+alexnet	128	0,1,2,3
+GPU0 average usage: 15.4476439791
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 155102.094241
+GPU0 average rx usage: 693934.554974
+GPU1 average usage: 14.9712041885
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 239335.078534
+GPU1 average rx usage: 757536.649215
+GPU2 average usage: 18.5497382199
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 273463.350785
+GPU2 average rx usage: 842633.507853
+GPU3 average usage: 16.8193717277
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 264251.308901
+GPU3 average rx usage: 668206.806283
+alexnet	128	0,1
+cpu average usage: 3336.11455696
+memory average usage:1.41234177215
+alexnet	128	0,1
+alexnet	128	0,1
+GPU0 average usage: 19.6227106227
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 460315.018315
+GPU0 average rx usage: 1132974.35897
+GPU1 average usage: 16.0732600733
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 410681.318681
+GPU1 average rx usage: 1307135.53114
+alexnet	128	0
+cpu average usage: 2866.80535714
+memory average usage:0.876785714286
+alexnet	128	0
+alexnet	128	0
+GPU0 average usage: 27.1385542169
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 120096.385542
+GPU0 average rx usage: 1319668.6747
+alexnet	32	0,1,2,3,4,5,6,7
+cpu average usage: 3137.26647727
+memory average usage:2.56960227273
+alexnet	32	0,1,2,3,4,5,6,7
+alexnet	32	0,1,2,3,4,5,6,7
+GPU0 average usage: 32.1685393258
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 882977.52809
+GPU0 average rx usage: 1168882.02247
+GPU1 average usage: 30.8314606742
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 818011.235955
+GPU1 average rx usage: 1123994.38202
+GPU2 average usage: 30.6123595506
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 627308.988764
+GPU2 average rx usage: 1359915.73034
+GPU3 average usage: 34.1741573034
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 718595.505618
+GPU3 average rx usage: 1000078.65169
+GPU4 average usage: 30.5393258427
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 865134.831461
+GPU4 average rx usage: 832786.516854
+GPU5 average usage: 33.8539325843
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 622707.865169
+GPU5 average rx usage: 824859.550562
+GPU6 average usage: 36.2471910112
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 781910.11236
+GPU6 average rx usage: 1080292.13483
+GPU7 average usage: 31.2471910112
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 778275.280899
+GPU7 average rx usage: 1191988.76404
+alexnet	32	0,1,2,3
+cpu average usage: 2900.22173913
+memory average usage:1.53967391304
+alexnet	32	0,1,2,3
+alexnet	32	0,1,2,3
+GPU0 average usage: 29.5833333333
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 915621.212121
+GPU0 average rx usage: 2636946.9697
+GPU1 average usage: 28.7424242424
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 962196.969697
+GPU1 average rx usage: 1548863.63636
+GPU2 average usage: 27.6666666667
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 795363.636364
+GPU2 average rx usage: 2724022.72727
+GPU3 average usage: 29.3181818182
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1011537.87879
+GPU3 average rx usage: 2176250.0
+alexnet	32	0,1
+cpu average usage: 2481.04351852
+memory average usage:1.01944444444
+alexnet	32	0,1
+alexnet	32	0,1
+GPU0 average usage: 29.6041666667
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1153468.75
+GPU0 average rx usage: 2869885.41667
+GPU1 average usage: 31.15625
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1270072.91667
+GPU1 average rx usage: 2913625.0
+alexnet	32	0
+cpu average usage: 1922.19710145
+memory average usage:0.734782608696
+alexnet	32	0
+alexnet	32	0
+GPU0 average usage: 26.9558823529
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 99029.4117647
+GPU0 average rx usage: 821661.764706
+alexnet	64	0,1,2,3,4,5,6,7
+cpu average usage: 3686.38435484
+memory average usage:3.01806451613
+alexnet	64	0,1,2,3,4,5,6,7
+alexnet	64	0,1,2,3,4,5,6,7
+GPU0 average usage: 21.4150943396
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 390977.987421
+GPU0 average rx usage: 474987.421384
+GPU1 average usage: 17.248427673
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 328886.792453
+GPU1 average rx usage: 454764.150943
+GPU2 average usage: 19.3805031447
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 411091.194969
+GPU2 average rx usage: 636336.477987
+GPU3 average usage: 22.6006289308
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 419084.90566
+GPU3 average rx usage: 561908.805031
+GPU4 average usage: 18.4213836478
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 294367.924528
+GPU4 average rx usage: 534364.779874
+GPU5 average usage: 17.4213836478
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 298691.823899
+GPU5 average rx usage: 533622.641509
+GPU6 average usage: 18.9716981132
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 314044.025157
+GPU6 average rx usage: 721672.955975
+GPU7 average usage: 19.6383647799
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 496009.433962
+GPU7 average rx usage: 754349.056604
+alexnet	64	0,1,2,3
+cpu average usage: 3302.35015674
+memory average usage:1.66833855799
+alexnet	64	0,1,2,3
+alexnet	64	0,1,2,3
+GPU0 average usage: 21.5682819383
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 514048.45815
+GPU0 average rx usage: 973110.132159
+GPU1 average usage: 18.8546255507
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 275466.960352
+GPU1 average rx usage: 990497.797357
+GPU2 average usage: 20.6079295154
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 474625.550661
+GPU2 average rx usage: 1044101.32159
+GPU3 average usage: 20.7797356828
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 278154.185022
+GPU3 average rx usage: 1200718.06167
+alexnet	64	0,1
+cpu average usage: 2964.43139535
+memory average usage:1.10348837209
+alexnet	64	0,1
+alexnet	64	0,1
+GPU0 average usage: 26.6
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1116393.33333
+GPU0 average rx usage: 1610260.0
+GPU1 average usage: 25.2533333333
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1114673.33333
+GPU1 average rx usage: 1628746.66667
+alexnet	64	0
+cpu average usage: 2640.80571429
+memory average usage:0.784761904762
+alexnet	64	0
+alexnet	64	0
+GPU0 average usage: 26.7019230769
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 111625.0
+GPU0 average rx usage: 1180951.92308
+alexnet	8	0,1,2,3,4,5,6,7
+cpu average usage: 2006.40896552
+memory average usage:2.20551724138
+alexnet	8	0,1,2,3,4,5,6,7
+alexnet	8	0,1,2,3,4,5,6,7
+GPU0 average usage: 54.5277777778
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 3126555.55556
+GPU0 average rx usage: 3327958.33333
+GPU1 average usage: 59.1527777778
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 3049680.55556
+GPU1 average rx usage: 2824652.77778
+GPU2 average usage: 59.2083333333
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 2730361.11111
+GPU2 average rx usage: 2301069.44444
+GPU3 average usage: 58.6527777778
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 3044583.33333
+GPU3 average rx usage: 2864375.0
+GPU4 average usage: 59.4305555556
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 3224027.77778
+GPU4 average rx usage: 3483083.33333
+GPU5 average usage: 58.125
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 2332083.33333
+GPU5 average rx usage: 2348138.88889
+GPU6 average usage: 58.6944444444
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 2517736.11111
+GPU6 average rx usage: 3607347.22222
+GPU7 average usage: 54.3194444444
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 2832319.44444
+GPU7 average rx usage: 2240694.44444
+alexnet	8	0,1,2,3
+cpu average usage: 1799.25595238
+memory average usage:1.30595238095
+alexnet	8	0,1,2,3
+alexnet	8	0,1,2,3
+GPU0 average usage: 55.7272727273
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 4921381.81818
+GPU0 average rx usage: 5724290.90909
+GPU1 average usage: 53.5090909091
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 3273781.81818
+GPU1 average rx usage: 4605836.36364
+GPU2 average usage: 54.8909090909
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 3914309.09091
+GPU2 average rx usage: 6054345.45455
+GPU3 average usage: 56.2909090909
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 4447818.18182
+GPU3 average rx usage: 5575472.72727
+alexnet	8	0,1
+cpu average usage: 1097.29622642
+memory average usage:0.822641509434
+alexnet	8	0,1
+alexnet	8	0,1
+GPU0 average usage: 47.085106383
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 4345808.51064
+GPU0 average rx usage: 5113148.93617
+GPU1 average usage: 49.1276595745
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 4021085.10638
+GPU1 average rx usage: 4922148.93617
+alexnet	8	0
+cpu average usage: 596.088888889
+memory average usage:0.583333333333
+alexnet	8	0
+alexnet	8	0
+GPU0 average usage: 29.7058823529
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 126352.941176
+GPU0 average rx usage: 954941.176471
+inception3	128	0,1,2,3,4,5,6,7
+cpu average usage: 4072.49686192
+memory average usage:4.24743723849
+inception3	128	0,1,2,3,4,5,6,7
+inception3	128	0,1,2,3,4,5,6,7
+GPU0 average usage: 43.516
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 234897.0
+GPU0 average rx usage: 1301614.0
+GPU1 average usage: 42.57
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 239424.0
+GPU1 average rx usage: 1309453.0
+GPU2 average usage: 42.248
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 248248.0
+GPU2 average rx usage: 1416381.0
+GPU3 average usage: 43.003
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 252468.0
+GPU3 average rx usage: 1373098.0
+GPU4 average usage: 43.283
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 283263.0
+GPU4 average rx usage: 1713677.0
+GPU5 average usage: 43.616
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 288472.0
+GPU5 average rx usage: 1802792.0
+GPU6 average usage: 43.162
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 290234.0
+GPU6 average rx usage: 1814229.0
+GPU7 average usage: 41.577
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 289852.0
+GPU7 average rx usage: 1812449.0
+inception3	128	0,1,2,3
+cpu average usage: 3996.06014127
+memory average usage:2.33945509586
+inception3	128	0,1,2,3
+inception3	128	0,1,2,3
+GPU0 average usage: 79.066091954
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 425691.091954
+GPU0 average rx usage: 2334031.6092
+GPU1 average usage: 78.6106321839
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 393923.850575
+GPU1 average rx usage: 2295002.87356
+GPU2 average usage: 78.5948275862
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 387745.689655
+GPU2 average rx usage: 2365114.94253
+GPU3 average usage: 78.3290229885
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 386481.321839
+GPU3 average rx usage: 2373711.2069
+inception3	128	0,1
+cpu average usage: 1888.52203196
+memory average usage:1.58390410959
+inception3	128	0,1
+inception3	128	0,1
+GPU0 average usage: 89.4487989886
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 547868.52086
+GPU0 average rx usage: 3356599.24147
+GPU1 average usage: 90.0884955752
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 533968.394437
+GPU1 average rx usage: 3338238.93805
+inception3	128	0
+cpu average usage: 943.838713745
+memory average usage:1.01778058008
+inception3	128	0
+inception3	128	0
+GPU0 average usage: 94.7056603774
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 546125.786164
+GPU0 average rx usage: 4353249.0566
+inception3	32	0,1,2,3,4,5,6,7
+cpu average usage: 3382.57476281
+memory average usage:2.86963946869
+inception3	32	0,1,2,3,4,5,6,7
+inception3	32	0,1,2,3,4,5,6,7
+GPU0 average usage: 46.2996389892
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 504671.480144
+GPU0 average rx usage: 1454093.86282
+GPU1 average usage: 46.3935018051
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 482332.129964
+GPU1 average rx usage: 1562212.99639
+GPU2 average usage: 48.0469314079
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 484722.021661
+GPU2 average rx usage: 1662429.60289
+GPU3 average usage: 50.2671480144
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 569989.169675
+GPU3 average rx usage: 1648252.70758
+GPU4 average usage: 46.9530685921
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 476577.617329
+GPU4 average rx usage: 1502314.07942
+GPU5 average usage: 49.6967509025
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 528342.960289
+GPU5 average rx usage: 1428808.66426
+GPU6 average usage: 46.8086642599
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 454787.00361
+GPU6 average rx usage: 1623386.28159
+GPU7 average usage: 47.5090252708
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 538801.444043
+GPU7 average rx usage: 1793638.98917
+inception3	32	0,1,2,3
+cpu average usage: 2947.36495726
+memory average usage:1.65641025641
+inception3	32	0,1,2,3
+inception3	32	0,1,2,3
+GPU0 average usage: 68.9043824701
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 858976.095618
+GPU0 average rx usage: 2335900.39841
+GPU1 average usage: 70.4462151394
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 756501.992032
+GPU1 average rx usage: 2142776.89243
+GPU2 average usage: 69.6533864542
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 551043.824701
+GPU2 average rx usage: 2172968.12749
+GPU3 average usage: 66.6055776892
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 575729.083665
+GPU3 average rx usage: 2411940.23904
+inception3	32	0,1
+cpu average usage: 2316.75251799
+memory average usage:1.10395683453
+inception3	32	0,1
+inception3	32	0,1
+GPU0 average usage: 80.1829268293
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 731642.276423
+GPU0 average rx usage: 3177626.01626
+GPU1 average usage: 79.2520325203
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 649219.512195
+GPU1 average rx usage: 3080398.37398
+inception3	32	0
+cpu average usage: 828.638493724
+memory average usage:0.805020920502
+inception3	32	0
+inception3	32	0
+GPU0 average usage: 87.0893617021
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 569068.085106
+GPU0 average rx usage: 4492757.44681
+inception3	64	0,1,2,3,4,5,6,7
+cpu average usage: 3880.50854369
+memory average usage:3.30970873786
+inception3	64	0,1,2,3,4,5,6,7
+inception3	64	0,1,2,3,4,5,6,7
+GPU0 average usage: 41.9811320755
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 340183.018868
+GPU0 average rx usage: 1370683.01887
+GPU1 average usage: 43.0490566038
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 301154.716981
+GPU1 average rx usage: 1477511.32075
+GPU2 average usage: 44.5698113208
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 322579.245283
+GPU2 average rx usage: 1598788.67925
+GPU3 average usage: 42.558490566
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 328979.245283
+GPU3 average rx usage: 1577735.84906
+GPU4 average usage: 45.3132075472
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 370250.943396
+GPU4 average rx usage: 1349541.50943
+GPU5 average usage: 43.5094339623
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 277554.716981
+GPU5 average rx usage: 1154633.96226
+GPU6 average usage: 40.0301886792
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 265537.735849
+GPU6 average rx usage: 1352132.07547
+GPU7 average usage: 38.620754717
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 315160.377358
+GPU7 average rx usage: 1278905.66038
+inception3	64	0,1,2,3
+cpu average usage: 3749.07943262
+memory average usage:1.88989361702
+inception3	64	0,1,2,3
+inception3	64	0,1,2,3
+GPU0 average usage: 76.2449494949
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 489603.535354
+GPU0 average rx usage: 1974113.63636
+GPU1 average usage: 76.4419191919
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 536641.414141
+GPU1 average rx usage: 2055866.16162
+GPU2 average usage: 76.4772727273
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 477030.30303
+GPU2 average rx usage: 1945368.68687
+GPU3 average usage: 74.2904040404
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 478926.767677
+GPU3 average rx usage: 2117446.9697
+inception3	64	0,1
+cpu average usage: 1972.12283298
+memory average usage:1.21374207188
+inception3	64	0,1
+inception3	64	0,1
+GPU0 average usage: 87.7357142857
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 644516.666667
+GPU0 average rx usage: 3460623.80952
+GPU1 average usage: 85.580952381
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 602304.761905
+GPU1 average rx usage: 3470147.61905
+inception3	64	0
+cpu average usage: 1437.82931442
+memory average usage:0.891725768322
+inception3	64	0
+inception3	64	0
+GPU0 average usage: 91.6522781775
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 601340.527578
+GPU0 average rx usage: 4853683.45324
+inception3	8	0,1,2,3,4,5,6,7
+cpu average usage: 2302.01198502
+memory average usage:2.22696629213
+inception3	8	0,1,2,3,4,5,6,7
+inception3	8	0,1,2,3,4,5,6,7
+GPU0 average usage: 45.0666666667
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 687985.185185
+GPU0 average rx usage: 1220777.77778
+GPU1 average usage: 45.637037037
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 644125.925926
+GPU1 average rx usage: 1352377.77778
+GPU2 average usage: 45.2962962963
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 644214.814815
+GPU2 average rx usage: 1384577.77778
+GPU3 average usage: 42.4666666667
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 674748.148148
+GPU3 average rx usage: 1692970.37037
+GPU4 average usage: 43.9259259259
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 596133.333333
+GPU4 average rx usage: 1156688.88889
+GPU5 average usage: 42.2888888889
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 547451.851852
+GPU5 average rx usage: 1382362.96296
+GPU6 average usage: 43.3259259259
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 545429.62963
+GPU6 average rx usage: 1385592.59259
+GPU7 average usage: 39.4962962963
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 642370.37037
+GPU7 average rx usage: 1641148.14815
+inception3	8	0,1,2,3
+cpu average usage: 1594.15321637
+memory average usage:1.4134502924
+inception3	8	0,1,2,3
+inception3	8	0,1,2,3
+GPU0 average usage: 60.694214876
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 891652.892562
+GPU0 average rx usage: 2432396.69421
+GPU1 average usage: 59.9421487603
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1026297.52066
+GPU1 average rx usage: 2185983.47107
+GPU2 average usage: 60.3305785124
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 979371.900826
+GPU2 average rx usage: 2295619.83471
+GPU3 average usage: 57.7933884298
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1127644.6281
+GPU3 average rx usage: 2432603.30579
+inception3	8	0,1
+cpu average usage: 771.642222222
+memory average usage:0.935555555556
+inception3	8	0,1
+inception3	8	0,1
+GPU0 average usage: 71.5166666667
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1121966.66667
+GPU0 average rx usage: 3423308.33333
+GPU1 average usage: 68.2083333333
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1088708.33333
+GPU1 average rx usage: 3526350.0
+inception3	8	0
+cpu average usage: 438.214423077
+memory average usage:0.633653846154
+inception3	8	0
+inception3	8	0
+GPU0 average usage: 75.5145631068
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 457281.553398
+GPU0 average rx usage: 3691446.60194
+resnet50	128	0,1,2,3,4,5,6,7
+cpu average usage: 3718.16731092
+memory average usage:3.88899159664
+resnet50	128	0,1,2,3,4,5,6,7
+resnet50	128	0,1,2,3,4,5,6,7
+GPU0 average usage: 45.4
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 334451.968504
+GPU0 average rx usage: 1344960.62992
+GPU1 average usage: 42.1212598425
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 266274.015748
+GPU1 average rx usage: 1321537.00787
+GPU2 average usage: 39.211023622
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 294396.850394
+GPU2 average rx usage: 1434798.4252
+GPU3 average usage: 37.4157480315
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 246157.480315
+GPU3 average rx usage: 1481448.8189
+GPU4 average usage: 39.4062992126
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 323207.874016
+GPU4 average rx usage: 1683829.92126
+GPU5 average usage: 41.2346456693
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 295045.669291
+GPU5 average rx usage: 1671588.97638
+GPU6 average usage: 42.6724409449
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 325122.834646
+GPU6 average rx usage: 1959935.43307
+GPU7 average usage: 45.5952755906
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 427319.685039
+GPU7 average rx usage: 2197678.74016
+resnet50	128	0,1,2,3
+cpu average usage: 3252.47294833
+memory average usage:2.19893617021
+resnet50	128	0,1,2,3
+resnet50	128	0,1,2,3
+GPU0 average usage: 77.3808510638
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 573514.893617
+GPU0 average rx usage: 2873000.0
+GPU1 average usage: 77.6872340426
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 514487.234043
+GPU1 average rx usage: 2942395.74468
+GPU2 average usage: 77.885106383
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 519531.914894
+GPU2 average rx usage: 2933476.59574
+GPU3 average usage: 77.7531914894
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 567608.510638
+GPU3 average rx usage: 3118229.78723
+resnet50	128	0,1
+cpu average usage: 1973.75129534
+memory average usage:1.42435233161
+resnet50	128	0,1
+resnet50	128	0,1
+GPU0 average usage: 88.0998080614
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 583410.74856
+GPU0 average rx usage: 3310756.238
+GPU1 average usage: 88.6487523992
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 631537.428023
+GPU1 average rx usage: 3622184.26104
+resnet50	128	0
+cpu average usage: 721.841984733
+memory average usage:0.95
+resnet50	128	0
+resnet50	128	0
+GPU0 average usage: 92.5028571429
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 545716.190476
+GPU0 average rx usage: 4430485.71429
+resnet50	32	0,1,2,3,4,5,6,7
+cpu average usage: 2933.66556962
+memory average usage:2.58379746835
+resnet50	32	0,1,2,3,4,5,6,7
+resnet50	32	0,1,2,3,4,5,6,7
+GPU0 average usage: 45.8009708738
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 566878.640777
+GPU0 average rx usage: 1100150.48544
+GPU1 average usage: 46.5
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 452504.854369
+GPU1 average rx usage: 934135.92233
+GPU2 average usage: 46.5533980583
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 610766.990291
+GPU2 average rx usage: 1179854.36893
+GPU3 average usage: 48.359223301
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 495815.533981
+GPU3 average rx usage: 1107067.96117
+GPU4 average usage: 49.0339805825
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 647097.087379
+GPU4 average rx usage: 1014412.62136
+GPU5 average usage: 47.359223301
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 535257.281553
+GPU5 average rx usage: 1184402.91262
+GPU6 average usage: 46.5242718447
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 501315.533981
+GPU6 average rx usage: 1120466.01942
+GPU7 average usage: 48.927184466
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 554907.76699
+GPU7 average rx usage: 1292393.20388
+resnet50	32	0,1,2,3
+cpu average usage: 2269.56709402
+memory average usage:1.57435897436
+resnet50	32	0,1,2,3
+resnet50	32	0,1,2,3
+GPU0 average usage: 67.0935672515
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 872538.011696
+GPU0 average rx usage: 2690450.2924
+GPU1 average usage: 66.2046783626
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 943906.432749
+GPU1 average rx usage: 2759672.51462
+GPU2 average usage: 67.0584795322
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 614304.093567
+GPU2 average rx usage: 2903269.00585
+GPU3 average usage: 66.9298245614
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1014730.99415
+GPU3 average rx usage: 2495555.55556
+resnet50	32	0,1
+cpu average usage: 1669.84603175
+memory average usage:1.05873015873
+resnet50	32	0,1
+resnet50	32	0,1
+GPU0 average usage: 79.1377245509
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 915772.45509
+GPU0 average rx usage: 3158353.29341
+GPU1 average usage: 78.0299401198
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 904526.946108
+GPU1 average rx usage: 3383179.64072
+resnet50	32	0
+cpu average usage: 770.650943396
+memory average usage:0.740880503145
+resnet50	32	0
+resnet50	32	0
+GPU0 average usage: 85.2356687898
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 522191.082803
+GPU0 average rx usage: 3768687.89809
+resnet50	64	0,1,2,3,4,5,6,7
+cpu average usage: 3288.35600579
+memory average usage:3.08191027496
+resnet50	64	0,1,2,3,4,5,6,7
+resnet50	64	0,1,2,3,4,5,6,7
+GPU0 average usage: 48.564469914
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 438598.853868
+GPU0 average rx usage: 1369727.7937
+GPU1 average usage: 45.0515759312
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 364151.862464
+GPU1 average rx usage: 1006770.77364
+GPU2 average usage: 41.2607449857
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 367435.530086
+GPU2 average rx usage: 1265343.83954
+GPU3 average usage: 40.2722063037
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 329959.885387
+GPU3 average rx usage: 1154401.14613
+GPU4 average usage: 44.6074498567
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 420991.404011
+GPU4 average rx usage: 1152458.45272
+GPU5 average usage: 44.9369627507
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 394381.088825
+GPU5 average rx usage: 1067621.7765
+GPU6 average usage: 41.9828080229
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 370919.770774
+GPU6 average rx usage: 1025472.77937
+GPU7 average usage: 40.8051575931
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 335690.544413
+GPU7 average rx usage: 1088965.61605
+resnet50	64	0,1,2,3
+cpu average usage: 2801.55648649
+memory average usage:1.73
+resnet50	64	0,1,2,3
+resnet50	64	0,1,2,3
+GPU0 average usage: 73.9671532847
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 694244.525547
+GPU0 average rx usage: 3197189.78102
+GPU1 average usage: 72.8357664234
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 657795.620438
+GPU1 average rx usage: 2803273.72263
+GPU2 average usage: 73.9671532847
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 773693.430657
+GPU2 average rx usage: 2798302.91971
+GPU3 average usage: 72.9452554745
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 657270.072993
+GPU3 average rx usage: 2975875.91241
+resnet50	64	0,1
+cpu average usage: 1658.99169329
+memory average usage:1.17795527157
+resnet50	64	0,1
+resnet50	64	0,1
+GPU0 average usage: 85.9205776173
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 843851.98556
+GPU0 average rx usage: 3420487.36462
+GPU1 average usage: 85.1841155235
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 826833.935018
+GPU1 average rx usage: 3533382.67148
+resnet50	64	0
+cpu average usage: 921.7795053
+memory average usage:0.874204946996
+resnet50	64	0
+resnet50	64	0
+GPU0 average usage: 89.5107142857
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 537478.571429
+GPU0 average rx usage: 4128275.0
+resnet50	8	0,1,2,3,4,5,6,7
+cpu average usage: 1968.23609756
+memory average usage:2.17756097561
+resnet50	8	0,1,2,3,4,5,6,7
+resnet50	8	0,1,2,3,4,5,6,7
+GPU0 average usage: 42.6960784314
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 749392.156863
+GPU0 average rx usage: 1165372.54902
+GPU1 average usage: 43.6274509804
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 859872.54902
+GPU1 average rx usage: 1592754.90196
+GPU2 average usage: 43.6666666667
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 639294.117647
+GPU2 average rx usage: 1403039.21569
+GPU3 average usage: 42.1666666667
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 976401.960784
+GPU3 average rx usage: 1190647.05882
+GPU4 average usage: 44.4901960784
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 748745.098039
+GPU4 average rx usage: 1309647.05882
+GPU5 average usage: 44.7156862745
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 1069774.5098
+GPU5 average rx usage: 1467382.35294
+GPU6 average usage: 44.3529411765
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 971019.607843
+GPU6 average rx usage: 1283637.2549
+GPU7 average usage: 42.5784313725
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 733892.156863
+GPU7 average rx usage: 1513950.98039
+resnet50	8	0,1,2,3
+cpu average usage: 1490.9872
+memory average usage:1.3248
+resnet50	8	0,1,2,3
+resnet50	8	0,1,2,3
+GPU0 average usage: 58.4137931034
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1402091.95402
+GPU0 average rx usage: 2468356.32184
+GPU1 average usage: 56.3563218391
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1209241.37931
+GPU1 average rx usage: 2577229.88506
+GPU2 average usage: 55.8045977011
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 1186344.82759
+GPU2 average rx usage: 2626482.75862
+GPU3 average usage: 54.0
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1200344.82759
+GPU3 average rx usage: 2148827.58621
+resnet50	8	0,1
+cpu average usage: 812.889247312
+memory average usage:0.895698924731
+resnet50	8	0,1
+resnet50	8	0,1
+GPU0 average usage: 67.0
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1397134.14634
+GPU0 average rx usage: 2728341.46341
+GPU1 average usage: 66.0853658537
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1482500.0
+GPU1 average rx usage: 3086841.46341
+resnet50	8	0
+cpu average usage: 433.032857143
+memory average usage:0.635714285714
+resnet50	8	0
+resnet50	8	0
+GPU0 average usage: 75.2
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 384657.142857
+GPU0 average rx usage: 3391428.57143
+vgg16	128	0,1,2,3,4,5,6,7
+cpu average usage: 3648.04302521
+memory average usage:3.61403361345
+vgg16	128	0,1,2,3,4,5,6,7
+vgg16	128	0,1,2,3,4,5,6,7
+GPU0 average usage: 77.3431372549
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 959792.48366
+GPU0 average rx usage: 2783686.27451
+GPU1 average usage: 76.1094771242
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 980926.470588
+GPU1 average rx usage: 2722975.4902
+GPU2 average usage: 76.4264705882
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 1046003.26797
+GPU2 average rx usage: 2932240.19608
+GPU3 average usage: 76.2107843137
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 997223.856209
+GPU3 average rx usage: 2849687.9085
+GPU4 average usage: 76.5326797386
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 1154468.95425
+GPU4 average rx usage: 2895929.73856
+GPU5 average usage: 77.7696078431
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 1123390.52288
+GPU5 average rx usage: 2842861.11111
+GPU6 average usage: 76.4624183007
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 996246.732026
+GPU6 average rx usage: 2922395.42484
+GPU7 average usage: 76.8120915033
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 994081.699346
+GPU7 average rx usage: 3087475.4902
+vgg16	128	0,1,2,3
+cpu average usage: 2464.84698134
+memory average usage:2.20976948408
+vgg16	128	0,1,2,3
+vgg16	128	0,1,2,3
+GPU0 average usage: 88.574695122
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1418106.70732
+GPU0 average rx usage: 3620550.30488
+GPU1 average usage: 88.8826219512
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1244067.07317
+GPU1 average rx usage: 3540858.23171
+GPU2 average usage: 88.9588414634
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 1239922.2561
+GPU2 average rx usage: 3621951.21951
+GPU3 average usage: 88.9039634146
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1611140.2439
+GPU3 average rx usage: 3782766.76829
+vgg16	128	0,1
+cpu average usage: 1149.02750302
+memory average usage:1.3302774427
+vgg16	128	0,1
+vgg16	128	0,1
+GPU0 average usage: 93.7364953887
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1167866.93017
+GPU0 average rx usage: 4085084.32148
+GPU1 average usage: 93.7154150198
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1018451.91041
+GPU1 average rx usage: 4047678.52437
+vgg16	128	0
+cpu average usage: 621.010376135
+memory average usage:0.966147859922
+vgg16	128	0
+vgg16	128	0
+GPU0 average usage: 96.7734877735
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 572209.78121
+GPU0 average rx usage: 4609583.01158
+vgg16	32	0,1,2,3,4,5,6,7
+cpu average usage: 2494.92253219
+memory average usage:2.65107296137
+vgg16	32	0,1,2,3,4,5,6,7
+vgg16	32	0,1,2,3,4,5,6,7
+GPU0 average usage: 82.0762711864
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 2366694.91525
+GPU0 average rx usage: 3041923.72881
+GPU1 average usage: 82.0677966102
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 2529330.50847
+GPU1 average rx usage: 3090822.0339
+GPU2 average usage: 80.4025423729
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 2008855.9322
+GPU2 average rx usage: 3119444.91525
+GPU3 average usage: 79.5508474576
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1952470.33898
+GPU3 average rx usage: 2890919.49153
+GPU4 average usage: 80.7838983051
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 2725317.79661
+GPU4 average rx usage: 3366805.08475
+GPU5 average usage: 80.8601694915
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 2311025.42373
+GPU5 average rx usage: 2939707.62712
+GPU6 average usage: 80.4788135593
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 2478872.88136
+GPU6 average rx usage: 3392241.52542
+GPU7 average usage: 80.0508474576
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 2421809.32203
+GPU7 average rx usage: 3389470.33898
+vgg16	32	0,1,2,3
+cpu average usage: 1713.89904762
+memory average usage:1.62476190476
+vgg16	32	0,1,2,3
+vgg16	32	0,1,2,3
+GPU0 average usage: 86.1369863014
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 2829296.80365
+GPU0 average rx usage: 5044132.42009
+GPU1 average usage: 86.397260274
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 3244936.07306
+GPU1 average rx usage: 4743223.74429
+GPU2 average usage: 86.1415525114
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 2239899.54338
+GPU2 average rx usage: 3893164.38356
+GPU3 average usage: 85.7945205479
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 2692420.09132
+GPU3 average rx usage: 4935954.3379
+vgg16	32	0,1
+cpu average usage: 1085.86396761
+memory average usage:1.07894736842
+vgg16	32	0,1
+vgg16	32	0,1
+GPU0 average usage: 91.3545454545
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 2869513.63636
+GPU0 average rx usage: 5284436.36364
+GPU1 average usage: 91.3272727273
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 2499940.90909
+GPU1 average rx usage: 5139527.27273
+vgg16	32	0
+cpu average usage: 564.141588785
+memory average usage:0.741588785047
+vgg16	32	0
+vgg16	32	0
+GPU0 average usage: 93.7417840376
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 468845.070423
+GPU0 average rx usage: 3850741.78404
+vgg16	64	0,1,2,3,4,5,6,7
+cpu average usage: 3279.28256625
+memory average usage:3.04309623431
+vgg16	64	0,1,2,3,4,5,6,7
+vgg16	64	0,1,2,3,4,5,6,7
+GPU0 average usage: 78.6828571429
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1608014.28571
+GPU0 average rx usage: 3244731.42857
+GPU1 average usage: 77.8057142857
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1557685.71429
+GPU1 average rx usage: 3599634.28571
+GPU2 average usage: 77.16
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 1678982.85714
+GPU2 average rx usage: 3388751.42857
+GPU3 average usage: 77.2742857143
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1667617.14286
+GPU3 average rx usage: 3208860.0
+GPU4 average usage: 78.76
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 1692688.57143
+GPU4 average rx usage: 3178717.14286
+GPU5 average usage: 77.7371428571
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 1386802.85714
+GPU5 average rx usage: 3073594.28571
+GPU6 average usage: 77.9114285714
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 1627745.71429
+GPU6 average rx usage: 3497611.42857
+GPU7 average usage: 78.3857142857
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 1677325.71429
+GPU7 average rx usage: 3368334.28571
+vgg16	64	0,1,2,3
+cpu average usage: 1816.13457031
+memory average usage:1.7853515625
+vgg16	64	0,1,2,3
+vgg16	64	0,1,2,3
+GPU0 average usage: 87.2431693989
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1749415.30055
+GPU0 average rx usage: 4907035.51913
+GPU1 average usage: 88.0655737705
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 2105142.0765
+GPU1 average rx usage: 4824808.74317
+GPU2 average usage: 87.7841530055
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 1995155.7377
+GPU2 average rx usage: 4655674.86339
+GPU3 average usage: 87.4207650273
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 1779784.15301
+GPU3 average rx usage: 4813139.34426
+vgg16	64	0,1
+cpu average usage: 1017.6472973
+memory average usage:1.20022522523
+vgg16	64	0,1
+vgg16	64	0,1
+GPU0 average usage: 92.8245614035
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 1789280.70175
+GPU0 average rx usage: 4443531.32832
+GPU1 average usage: 92.9498746867
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 1701593.98496
+GPU1 average rx usage: 4637431.07769
+vgg16	64	0
+cpu average usage: 679.047619048
+memory average usage:0.842606516291
+vgg16	64	0
+vgg16	64	0
+GPU0 average usage: 95.6590909091
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 435080.808081
+GPU0 average rx usage: 3417702.0202
+vgg16	8	0,1,2,3,4,5,6,7
+cpu average usage: 1749.36851211
+memory average usage:2.42041522491
+vgg16	8	0,1,2,3,4,5,6,7
+vgg16	8	0,1,2,3,4,5,6,7
+GPU0 average usage: 81.4896551724
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 4468841.37931
+GPU0 average rx usage: 4723151.72414
+GPU1 average usage: 81.6413793103
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 3655420.68966
+GPU1 average rx usage: 4068537.93103
+GPU2 average usage: 81.9310344828
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 3418020.68966
+GPU2 average rx usage: 4488731.03448
+GPU3 average usage: 81.675862069
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 3627206.89655
+GPU3 average rx usage: 4180420.68966
+GPU4 average usage: 82.2827586207
+GPU4 memory max usage: 15641.0
+GPU4 average tx throughput: 4135089.65517
+GPU4 average rx usage: 4288648.27586
+GPU5 average usage: 82.1448275862
+GPU5 memory max usage: 15641.0
+GPU5 average tx throughput: 3676544.82759
+GPU5 average rx usage: 4430979.31034
+GPU6 average usage: 81.8896551724
+GPU6 memory max usage: 15641.0
+GPU6 average tx throughput: 3565937.93103
+GPU6 average rx usage: 4679455.17241
+GPU7 average usage: 83.2
+GPU7 memory max usage: 15641.0
+GPU7 average tx throughput: 3700482.75862
+GPU7 average rx usage: 4337337.93103
+vgg16	8	0,1,2,3
+cpu average usage: 956.899415205
+memory average usage:1.43099415205
+vgg16	8	0,1,2,3
+vgg16	8	0,1,2,3
+GPU0 average usage: 84.1465517241
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 4940189.65517
+GPU0 average rx usage: 6616870.68966
+GPU1 average usage: 84.1034482759
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 5060232.75862
+GPU1 average rx usage: 6507905.17241
+GPU2 average usage: 83.9655172414
+GPU2 memory max usage: 15641.0
+GPU2 average tx throughput: 4846784.48276
+GPU2 average rx usage: 7115094.82759
+GPU3 average usage: 82.6293103448
+GPU3 memory max usage: 15641.0
+GPU3 average tx throughput: 4904439.65517
+GPU3 average rx usage: 6590068.96552
+vgg16	8	0,1
+cpu average usage: 520.701834862
+memory average usage:0.915596330275
+vgg16	8	0,1
+vgg16	8	0,1
+GPU0 average usage: 84.2371134021
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 5607824.74227
+GPU0 average rx usage: 6746865.97938
+GPU1 average usage: 84.7422680412
+GPU1 memory max usage: 15641.0
+GPU1 average tx throughput: 5805845.36082
+GPU1 average rx usage: 7127175.25773
+vgg16	8	0
+cpu average usage: 313.86547619
+memory average usage:0.617857142857
+vgg16	8	0
+vgg16	8	0
+GPU0 average usage: 87.9761904762
+GPU0 memory max usage: 15641.0
+GPU0 average tx throughput: 508892.857143
+GPU0 average rx usage: 3899857.14286
