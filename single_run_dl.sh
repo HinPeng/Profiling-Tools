@@ -14,7 +14,7 @@ model=$4
 
 #file=log.txt
 
-CUDA_VISIBLE_DEVICES=$1 python ../../tf_cnn_benchmarks.py --local_parameter_device=cpu --num_gpus=$2 --batch_size=$3 --model=$4 --variable_update=replicated --use_nccl=True --num_batches=1000 --data_dir=/home/fanyang/imagenet/raw-data/tmp --data_name=imagenet
+CUDA_VISIBLE_DEVICES=$1 python ../../tf_cnn_benchmarks.py --local_parameter_device=cpu --num_gpus=$2 --batch_size=$3 --model=$4 --variable_update=parameter_server --use_nccl=True --num_batches=1000 --data_dir=/home/fanyang/imagenet/raw-data/tmp --data_name=imagenet
 
 
 : '
