@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ $# != 4 ]; then
-    echo -e "parameter number wrong!\n"
+    echo -e "smi parameter number wrong!\n"
     exit 1
 fi
 

@@ -1,13 +1,12 @@
 #!/bin/bash
-if [ $# != 3 ]; then
-    echo -e "parameter number wrong!\n"
+if [ $# != 4 ]; then
+    echo -e "nic parameter number wrong!\n"
     exit 1
 fi
 
-dir_prefix="data/"
-freq=1
 pid=$2
 prefix=$3
+freq=$4
 
 
 if [ -z "$1" ]; then
@@ -39,7 +38,7 @@ do
         
         if ps -p $pid > /dev/null
         then
-          echo "${date} tx_$1: $TKBPS kb/s rx_$1: $RKBPS kb/s" >> ${dir_prefix}${prefix}_nic.txt
+          echo "${date} tx_$1: $TKBPS kb/s rx_$1: $RKBPS kb/s" >> ${prefix}_nic.txt
         else
           break
         fi

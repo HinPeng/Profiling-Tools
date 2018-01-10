@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ $# != 1 ]; then
-    echo -e 'parameter number wrong!\n'
+    echo -e 'io parameter number wrong!\n'
     exit 1
 fi
 

@@ -1,3 +1,4 @@
+#!/bin/sh
 data_dir="prof_data/"
 mkdir -p $data_dir
 
@@ -11,6 +12,8 @@ models="alexnet vgg16 inception3 resnet50"
 
 batch_size='64'
 num_batches='100'
+
+freq=0.5
 
 run(){
     echo 3 | sudo tee /proc/sys/vm/drop_caches
@@ -50,15 +53,16 @@ run(){
     
     
     # mesurement content
-    ./cpu_mem.sh ${pid} $6 &
-    ./smi.sh ${pid} $6 $1 &
-    ./pcm.sh ${pid} $6 &
-    ./netspeed ib0 ${pid} $6 &
+    ./ps_cpu_mem.sh ${ps_pid} $6 $freq &
+    ./wr_cpu_mem.sh ${wr_pid} $6 $freq &
+    ./smi.sh ${wr_pid} $6 $1 $freq &
+    ./pcm.sh ${wr_pid} $6 $freq &
+    ./netspeed ib0 ${wr_pid} $6 $freq &
     ./io.sh $6 & io_pid=$!
 
     while :
     do
-        if ps -p $pid > /dev/null
+        if ps -p $wr_pid > /dev/null
         then
             continue
         else

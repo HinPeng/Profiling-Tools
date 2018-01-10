@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ $# != 3 ]; then
-    echo -e "parameter number wrong!\n"
+    echo -e "cpu parameter number wrong!\n"
     exit 1
 fi
 
