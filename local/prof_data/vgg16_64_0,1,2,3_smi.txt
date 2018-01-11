@@ -1,0 +1,2144 @@
+2018-01-10_22-08-55  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-08-56  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-08-57  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-08-58  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-08-58  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-08-59  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-00  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-01  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-02  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-03  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-04  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-05  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-06  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-07  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-08  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-09  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-10  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-10  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-11  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-12  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-13  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-14  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-15  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-16  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-17  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-18  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-19  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-20  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-21  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-22  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-23  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-24  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-25  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-26  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-26  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 1000 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 1000 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-28  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 14000 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 3000 KB/s
+ Gpu : 3 %
+2018-01-10_22-09-29  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-29  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-30  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-31  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-32  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-33  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 7000 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-34  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-35  Bus Id : 0000:05:00.0
+ Tx Throughput : 14000 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 10 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 9 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 2 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-36  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-37  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-38  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-39  Bus Id : 0000:05:00.0
+ Tx Throughput : 2000 KB/s
+ Rx Throughput : 15000 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-40  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-41  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-42  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-43  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-44  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 4 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 4 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-45  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-45  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-46  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-09-47  Bus Id : 0000:05:00.0
+ Tx Throughput : 4000 KB/s
+ Rx Throughput : 31000 KB/s
+ Gpu : 6 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 12000 KB/s
+ Rx Throughput : 9000 KB/s
+ Gpu : 1 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 8000 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 2 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 18000 KB/s
+ Rx Throughput : 100000 KB/s
+ Gpu : 3 %
+2018-01-10_22-09-48  Bus Id : 0000:05:00.0
+ Tx Throughput : 7000 KB/s
+ Rx Throughput : 53000 KB/s
+ Gpu : 2 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 4000 KB/s
+ Rx Throughput : 136000 KB/s
+ Gpu : 5 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 3 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 3000 KB/s
+ Rx Throughput : 64000 KB/s
+ Gpu : 2 %
+2018-01-10_22-09-49  Bus Id : 0000:05:00.0
+ Tx Throughput : 118000 KB/s
+ Rx Throughput : 1437000 KB/s
+ Gpu : 2 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 14000 KB/s
+ Rx Throughput : 38000 KB/s
+ Gpu : 3 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 14000 KB/s
+ Rx Throughput : 1965000 KB/s
+ Gpu : 63 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 14000 KB/s
+ Rx Throughput : 40000 KB/s
+ Gpu : 100 %
+2018-01-10_22-09-50  Bus Id : 0000:05:00.0
+ Tx Throughput : 60000 KB/s
+ Rx Throughput : 185000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 293000 KB/s
+ Rx Throughput : 40000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 28000 KB/s
+ Rx Throughput : 40000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 14000 KB/s
+ Rx Throughput : 39000 KB/s
+ Gpu : 99 %
+2018-01-10_22-09-51  Bus Id : 0000:05:00.0
+ Tx Throughput : 7000 KB/s
+ Rx Throughput : 49000 KB/s
+ Gpu : 2 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 7000 KB/s
+ Rx Throughput : 14000 KB/s
+ Gpu : 3 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 4000 KB/s
+ Rx Throughput : 60000 KB/s
+ Gpu : 3 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 4000 KB/s
+ Rx Throughput : 75000 KB/s
+ Gpu : 2 %
+2018-01-10_22-09-51  Bus Id : 0000:05:00.0
+ Tx Throughput : 4782000 KB/s
+ Rx Throughput : 10460000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 3826000 KB/s
+ Rx Throughput : 2911000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 225000 KB/s
+ Rx Throughput : 1512000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 692000 KB/s
+ Rx Throughput : 1493000 KB/s
+ Gpu : 100 %
+2018-01-10_22-09-52  Bus Id : 0000:05:00.0
+ Tx Throughput : 13000 KB/s
+ Rx Throughput : 810000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 221000 KB/s
+ Rx Throughput : 1055000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 47000 KB/s
+ Rx Throughput : 38000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 85000 KB/s
+ Rx Throughput : 1969000 KB/s
+ Gpu : 100 %
+2018-01-10_22-09-53  Bus Id : 0000:05:00.0
+ Tx Throughput : 310000 KB/s
+ Rx Throughput : 4286000 KB/s
+ Gpu : 96 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 500000 KB/s
+ Rx Throughput : 4473000 KB/s
+ Gpu : 96 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 678000 KB/s
+ Rx Throughput : 3122000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 6340000 KB/s
+ Rx Throughput : 7110000 KB/s
+ Gpu : 99 %
+2018-01-10_22-09-54  Bus Id : 0000:05:00.0
+ Tx Throughput : 2537000 KB/s
+ Rx Throughput : 2659000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 565000 KB/s
+ Rx Throughput : 4408000 KB/s
+ Gpu : 95 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 1444000 KB/s
+ Rx Throughput : 7748000 KB/s
+ Gpu : 95 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 6911000 KB/s
+ Rx Throughput : 7407000 KB/s
+ Gpu : 99 %
+2018-01-10_22-09-55  Bus Id : 0000:05:00.0
+ Tx Throughput : 513000 KB/s
+ Rx Throughput : 4016000 KB/s
+ Gpu : 92 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 515000 KB/s
+ Rx Throughput : 4079000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 492000 KB/s
+ Rx Throughput : 4017000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 496000 KB/s
+ Rx Throughput : 4317000 KB/s
+ Gpu : 100 %
+2018-01-10_22-09-56  Bus Id : 0000:05:00.0
+ Tx Throughput : 453000 KB/s
+ Rx Throughput : 4563000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 9889000 KB/s
+ Rx Throughput : 8844000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 400000 KB/s
+ Rx Throughput : 3441000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 524000 KB/s
+ Rx Throughput : 2999000 KB/s
+ Gpu : 99 %
+2018-01-10_22-09-57  Bus Id : 0000:05:00.0
+ Tx Throughput : 403000 KB/s
+ Rx Throughput : 3454000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 513000 KB/s
+ Rx Throughput : 4048000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 508000 KB/s
+ Rx Throughput : 4089000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 486000 KB/s
+ Rx Throughput : 4867000 KB/s
+ Gpu : 100 %
+2018-01-10_22-09-58  Bus Id : 0000:05:00.0
+ Tx Throughput : 142000 KB/s
+ Rx Throughput : 311000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 521000 KB/s
+ Rx Throughput : 452000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 428000 KB/s
+ Rx Throughput : 3043000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 403000 KB/s
+ Rx Throughput : 3225000 KB/s
+ Gpu : 99 %
+2018-01-10_22-09-58  Bus Id : 0000:05:00.0
+ Tx Throughput : 503000 KB/s
+ Rx Throughput : 4003000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 491000 KB/s
+ Rx Throughput : 3803000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 1143000 KB/s
+ Rx Throughput : 7121000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 9884000 KB/s
+ Rx Throughput : 7163000 KB/s
+ Gpu : 100 %
+2018-01-10_22-09-59  Bus Id : 0000:05:00.0
+ Tx Throughput : 570000 KB/s
+ Rx Throughput : 4221000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 520000 KB/s
+ Rx Throughput : 7621000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 6769000 KB/s
+ Rx Throughput : 9415000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 503000 KB/s
+ Rx Throughput : 3865000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-00  Bus Id : 0000:05:00.0
+ Tx Throughput : 2570000 KB/s
+ Rx Throughput : 11067000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 9417000 KB/s
+ Rx Throughput : 6479000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 314000 KB/s
+ Rx Throughput : 132000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 409000 KB/s
+ Rx Throughput : 2865000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-01  Bus Id : 0000:05:00.0
+ Tx Throughput : 413000 KB/s
+ Rx Throughput : 4283000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 514000 KB/s
+ Rx Throughput : 3951000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 503000 KB/s
+ Rx Throughput : 3986000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 3496000 KB/s
+ Rx Throughput : 9734000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-02  Bus Id : 0000:05:00.0
+ Tx Throughput : 10491000 KB/s
+ Rx Throughput : 4390000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 406000 KB/s
+ Rx Throughput : 3027000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 438000 KB/s
+ Rx Throughput : 3135000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 441000 KB/s
+ Rx Throughput : 4057000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-03  Bus Id : 0000:05:00.0
+ Tx Throughput : 1941000 KB/s
+ Rx Throughput : 5107000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 467000 KB/s
+ Rx Throughput : 3877000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 466000 KB/s
+ Rx Throughput : 2293000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 367000 KB/s
+ Rx Throughput : 3545000 KB/s
+ Gpu : 96 %
+2018-01-10_22-10-04  Bus Id : 0000:05:00.0
+ Tx Throughput : 87000 KB/s
+ Rx Throughput : 3619000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 521000 KB/s
+ Rx Throughput : 3979000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 570000 KB/s
+ Rx Throughput : 4044000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 474000 KB/s
+ Rx Throughput : 3947000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-05  Bus Id : 0000:05:00.0
+ Tx Throughput : 3784000 KB/s
+ Rx Throughput : 11644000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 4095000 KB/s
+ Rx Throughput : 5491000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 505000 KB/s
+ Rx Throughput : 4068000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 392000 KB/s
+ Rx Throughput : 3399000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-05  Bus Id : 0000:05:00.0
+ Tx Throughput : 374000 KB/s
+ Rx Throughput : 3826000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 504000 KB/s
+ Rx Throughput : 3673000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 499000 KB/s
+ Rx Throughput : 3813000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 4471000 KB/s
+ Rx Throughput : 9858000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-06  Bus Id : 0000:05:00.0
+ Tx Throughput : 549000 KB/s
+ Rx Throughput : 5497000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 425000 KB/s
+ Rx Throughput : 2872000 KB/s
+ Gpu : 97 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 413000 KB/s
+ Rx Throughput : 4497000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 493000 KB/s
+ Rx Throughput : 3896000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-07  Bus Id : 0000:05:00.0
+ Tx Throughput : 509000 KB/s
+ Rx Throughput : 4053000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 481000 KB/s
+ Rx Throughput : 5890000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 9805000 KB/s
+ Rx Throughput : 9082000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 532000 KB/s
+ Rx Throughput : 3075000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-08  Bus Id : 0000:05:00.0
+ Tx Throughput : 513000 KB/s
+ Rx Throughput : 4035000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 519000 KB/s
+ Rx Throughput : 4108000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 499000 KB/s
+ Rx Throughput : 4089000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 501000 KB/s
+ Rx Throughput : 3557000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-09  Bus Id : 0000:05:00.0
+ Tx Throughput : 9789000 KB/s
+ Rx Throughput : 11442000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 717000 KB/s
+ Rx Throughput : 4621000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 497000 KB/s
+ Rx Throughput : 3898000 KB/s
+ Gpu : 97 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 386000 KB/s
+ Rx Throughput : 3210000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-10  Bus Id : 0000:05:00.0
+ Tx Throughput : 511000 KB/s
+ Rx Throughput : 4009000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 480000 KB/s
+ Rx Throughput : 4061000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 486000 KB/s
+ Rx Throughput : 3611000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 9885000 KB/s
+ Rx Throughput : 9854000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-11  Bus Id : 0000:05:00.0
+ Tx Throughput : 622000 KB/s
+ Rx Throughput : 4619000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 533000 KB/s
+ Rx Throughput : 4186000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 549000 KB/s
+ Rx Throughput : 7063000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 6333000 KB/s
+ Rx Throughput : 7176000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-12  Bus Id : 0000:05:00.0
+ Tx Throughput : 476000 KB/s
+ Rx Throughput : 3772000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 6929000 KB/s
+ Rx Throughput : 9838000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 533000 KB/s
+ Rx Throughput : 4215000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 298000 KB/s
+ Rx Throughput : 2562000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-13  Bus Id : 0000:05:00.0
+ Tx Throughput : 512000 KB/s
+ Rx Throughput : 4004000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 486000 KB/s
+ Rx Throughput : 3911000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 497000 KB/s
+ Rx Throughput : 3689000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 10105000 KB/s
+ Rx Throughput : 7909000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-14  Bus Id : 0000:05:00.0
+ Tx Throughput : 550000 KB/s
+ Rx Throughput : 4382000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 586000 KB/s
+ Rx Throughput : 7502000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 4181000 KB/s
+ Rx Throughput : 5386000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 507000 KB/s
+ Rx Throughput : 3618000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-15  Bus Id : 0000:05:00.0
+ Tx Throughput : 36000 KB/s
+ Rx Throughput : 2044000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 617000 KB/s
+ Rx Throughput : 4933000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 31000 KB/s
+ Rx Throughput : 2945000 KB/s
+ Gpu : 97 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 415000 KB/s
+ Rx Throughput : 3177000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-15  Bus Id : 0000:05:00.0
+ Tx Throughput : 518000 KB/s
+ Rx Throughput : 4078000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 515000 KB/s
+ Rx Throughput : 4002000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 496000 KB/s
+ Rx Throughput : 3921000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 10491000 KB/s
+ Rx Throughput : 9832000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-16  Bus Id : 0000:05:00.0
+ Tx Throughput : 492000 KB/s
+ Rx Throughput : 2809000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 436000 KB/s
+ Rx Throughput : 7947000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 6508000 KB/s
+ Rx Throughput : 7180000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 493000 KB/s
+ Rx Throughput : 3949000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-17  Bus Id : 0000:05:00.0
+ Tx Throughput : 9790000 KB/s
+ Rx Throughput : 9764000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 452000 KB/s
+ Rx Throughput : 3858000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 433000 KB/s
+ Rx Throughput : 3358000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 411000 KB/s
+ Rx Throughput : 3214000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-18  Bus Id : 0000:05:00.0
+ Tx Throughput : 7059000 KB/s
+ Rx Throughput : 6196000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 1871000 KB/s
+ Rx Throughput : 4294000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 647000 KB/s
+ Rx Throughput : 3614000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 449000 KB/s
+ Rx Throughput : 4354000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-19  Bus Id : 0000:05:00.0
+ Tx Throughput : 514000 KB/s
+ Rx Throughput : 4091000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 576000 KB/s
+ Rx Throughput : 4219000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 529000 KB/s
+ Rx Throughput : 4159000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 539000 KB/s
+ Rx Throughput : 3878000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-20  Bus Id : 0000:05:00.0
+ Tx Throughput : 483000 KB/s
+ Rx Throughput : 4203000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 9873000 KB/s
+ Rx Throughput : 7168000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 394000 KB/s
+ Rx Throughput : 2660000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 408000 KB/s
+ Rx Throughput : 2957000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-21  Bus Id : 0000:05:00.0
+ Tx Throughput : 369000 KB/s
+ Rx Throughput : 3832000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 496000 KB/s
+ Rx Throughput : 3908000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 495000 KB/s
+ Rx Throughput : 3915000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 581000 KB/s
+ Rx Throughput : 8834000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-22  Bus Id : 0000:05:00.0
+ Tx Throughput : 10320000 KB/s
+ Rx Throughput : 9749000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 483000 KB/s
+ Rx Throughput : 3907000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 413000 KB/s
+ Rx Throughput : 3281000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 307000 KB/s
+ Rx Throughput : 2474000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-22  Bus Id : 0000:05:00.0
+ Tx Throughput : 530000 KB/s
+ Rx Throughput : 4113000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 503000 KB/s
+ Rx Throughput : 3984000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 504000 KB/s
+ Rx Throughput : 3997000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 5498000 KB/s
+ Rx Throughput : 9744000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-23  Bus Id : 0000:05:00.0
+ Tx Throughput : 8799000 KB/s
+ Rx Throughput : 6239000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 542000 KB/s
+ Rx Throughput : 4358000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 497000 KB/s
+ Rx Throughput : 4346000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 430000 KB/s
+ Rx Throughput : 3510000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-24  Bus Id : 0000:05:00.0
+ Tx Throughput : 507000 KB/s
+ Rx Throughput : 3845000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 482000 KB/s
+ Rx Throughput : 3738000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 7366000 KB/s
+ Rx Throughput : 10939000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 1401000 KB/s
+ Rx Throughput : 3895000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-25  Bus Id : 0000:05:00.0
+ Tx Throughput : 482000 KB/s
+ Rx Throughput : 5496000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 6231000 KB/s
+ Rx Throughput : 6819000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 1903000 KB/s
+ Rx Throughput : 3820000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 437000 KB/s
+ Rx Throughput : 3156000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-26  Bus Id : 0000:05:00.0
+ Tx Throughput : 10128000 KB/s
+ Rx Throughput : 3515000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 450000 KB/s
+ Rx Throughput : 2970000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 178000 KB/s
+ Rx Throughput : 2971000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 415000 KB/s
+ Rx Throughput : 3256000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-27  Bus Id : 0000:05:00.0
+ Tx Throughput : 552000 KB/s
+ Rx Throughput : 4040000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 508000 KB/s
+ Rx Throughput : 3997000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 481000 KB/s
+ Rx Throughput : 4955000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 9910000 KB/s
+ Rx Throughput : 8356000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-28  Bus Id : 0000:05:00.0
+ Tx Throughput : 516000 KB/s
+ Rx Throughput : 4265000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 2402000 KB/s
+ Rx Throughput : 6054000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 5855000 KB/s
+ Rx Throughput : 5520000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 938000 KB/s
+ Rx Throughput : 3854000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-29  Bus Id : 0000:05:00.0
+ Tx Throughput : 10000 KB/s
+ Rx Throughput : 1410000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 548000 KB/s
+ Rx Throughput : 4385000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 473000 KB/s
+ Rx Throughput : 4017000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 6311000 KB/s
+ Rx Throughput : 7655000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-30  Bus Id : 0000:05:00.0
+ Tx Throughput : 501000 KB/s
+ Rx Throughput : 4219000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 7760000 KB/s
+ Rx Throughput : 9842000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 670000 KB/s
+ Rx Throughput : 4326000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 24000 KB/s
+ Rx Throughput : 79000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-31  Bus Id : 0000:05:00.0
+ Tx Throughput : 426000 KB/s
+ Rx Throughput : 3217000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 522000 KB/s
+ Rx Throughput : 4136000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 489000 KB/s
+ Rx Throughput : 4101000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 485000 KB/s
+ Rx Throughput : 3919000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-31  Bus Id : 0000:05:00.0
+ Tx Throughput : 228000 KB/s
+ Rx Throughput : 63000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 617000 KB/s
+ Rx Throughput : 3415000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 401000 KB/s
+ Rx Throughput : 3487000 KB/s
+ Gpu : 97 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 383000 KB/s
+ Rx Throughput : 3245000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-32  Bus Id : 0000:05:00.0
+ Tx Throughput : 508000 KB/s
+ Rx Throughput : 4039000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 493000 KB/s
+ Rx Throughput : 4062000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 522000 KB/s
+ Rx Throughput : 3783000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 9879000 KB/s
+ Rx Throughput : 10367000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-33  Bus Id : 0000:05:00.0
+ Tx Throughput : 533000 KB/s
+ Rx Throughput : 4348000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 627000 KB/s
+ Rx Throughput : 4964000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 6716000 KB/s
+ Rx Throughput : 9368000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 3506000 KB/s
+ Rx Throughput : 3949000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-34  Bus Id : 0000:05:00.0
+ Tx Throughput : 504000 KB/s
+ Rx Throughput : 84000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 560000 KB/s
+ Rx Throughput : 4841000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 522000 KB/s
+ Rx Throughput : 3892000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 370000 KB/s
+ Rx Throughput : 3542000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-35  Bus Id : 0000:05:00.0
+ Tx Throughput : 6716000 KB/s
+ Rx Throughput : 9488000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 1938000 KB/s
+ Rx Throughput : 4685000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 492000 KB/s
+ Rx Throughput : 3368000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 476000 KB/s
+ Rx Throughput : 2531000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-36  Bus Id : 0000:05:00.0
+ Tx Throughput : 395000 KB/s
+ Rx Throughput : 3238000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 7075000 KB/s
+ Rx Throughput : 8180000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 2496000 KB/s
+ Rx Throughput : 4718000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 595000 KB/s
+ Rx Throughput : 4089000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-37  Bus Id : 0000:05:00.0
+ Tx Throughput : 508000 KB/s
+ Rx Throughput : 137000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 488000 KB/s
+ Rx Throughput : 3884000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 27000 KB/s
+ Rx Throughput : 90000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 301000 KB/s
+ Rx Throughput : 3258000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-38  Bus Id : 0000:05:00.0
+ Tx Throughput : 515000 KB/s
+ Rx Throughput : 4013000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 472000 KB/s
+ Rx Throughput : 3917000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 479000 KB/s
+ Rx Throughput : 3837000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 9685000 KB/s
+ Rx Throughput : 9961000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-38  Bus Id : 0000:05:00.0
+ Tx Throughput : 539000 KB/s
+ Rx Throughput : 4491000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 545000 KB/s
+ Rx Throughput : 4726000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 7342000 KB/s
+ Rx Throughput : 9979000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 1914000 KB/s
+ Rx Throughput : 4286000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-39  Bus Id : 0000:05:00.0
+ Tx Throughput : 485000 KB/s
+ Rx Throughput : 3869000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 6506000 KB/s
+ Rx Throughput : 10769000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 399000 KB/s
+ Rx Throughput : 2620000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 533000 KB/s
+ Rx Throughput : 3580000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-40  Bus Id : 0000:05:00.0
+ Tx Throughput : 442000 KB/s
+ Rx Throughput : 2836000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 506000 KB/s
+ Rx Throughput : 4058000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 495000 KB/s
+ Rx Throughput : 4084000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 476000 KB/s
+ Rx Throughput : 9460000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-41  Bus Id : 0000:05:00.0
+ Tx Throughput : 10067000 KB/s
+ Rx Throughput : 10078000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 479000 KB/s
+ Rx Throughput : 3445000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 413000 KB/s
+ Rx Throughput : 3051000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 293000 KB/s
+ Rx Throughput : 2425000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-42  Bus Id : 0000:05:00.0
+ Tx Throughput : 537000 KB/s
+ Rx Throughput : 4068000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 495000 KB/s
+ Rx Throughput : 4143000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 524000 KB/s
+ Rx Throughput : 3918000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 9704000 KB/s
+ Rx Throughput : 9854000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-43  Bus Id : 0000:05:00.0
+ Tx Throughput : 8604000 KB/s
+ Rx Throughput : 4345000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 549000 KB/s
+ Rx Throughput : 4114000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 4221000 KB/s
+ Rx Throughput : 10111000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 4189000 KB/s
+ Rx Throughput : 4809000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-44  Bus Id : 0000:05:00.0
+ Tx Throughput : 471000 KB/s
+ Rx Throughput : 3703000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 9843000 KB/s
+ Rx Throughput : 9834000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 523000 KB/s
+ Rx Throughput : 4182000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 402000 KB/s
+ Rx Throughput : 3089000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-45  Bus Id : 0000:05:00.0
+ Tx Throughput : 514000 KB/s
+ Rx Throughput : 4034000 KB/s
+ Gpu : 97 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 491000 KB/s
+ Rx Throughput : 3859000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 476000 KB/s
+ Rx Throughput : 3699000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 7077000 KB/s
+ Rx Throughput : 9961000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-45  Bus Id : 0000:05:00.0
+ Tx Throughput : 519000 KB/s
+ Rx Throughput : 4851000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 362000 KB/s
+ Rx Throughput : 2847000 KB/s
+ Gpu : 96 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 395000 KB/s
+ Rx Throughput : 4063000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 512000 KB/s
+ Rx Throughput : 4000000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-46  Bus Id : 0000:05:00.0
+ Tx Throughput : 525000 KB/s
+ Rx Throughput : 3826000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 510000 KB/s
+ Rx Throughput : 8029000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 9801000 KB/s
+ Rx Throughput : 6452000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 380000 KB/s
+ Rx Throughput : 2361000 KB/s
+ Gpu : 98 %
+2018-01-10_22-10-47  Bus Id : 0000:05:00.0
+ Tx Throughput : 495000 KB/s
+ Rx Throughput : 4387000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 515000 KB/s
+ Rx Throughput : 3992000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 484000 KB/s
+ Rx Throughput : 4091000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 494000 KB/s
+ Rx Throughput : 2890000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-48  Bus Id : 0000:05:00.0
+ Tx Throughput : 9813000 KB/s
+ Rx Throughput : 10921000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 542000 KB/s
+ Rx Throughput : 4442000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 491000 KB/s
+ Rx Throughput : 4018000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 401000 KB/s
+ Rx Throughput : 3267000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-49  Bus Id : 0000:05:00.0
+ Tx Throughput : 507000 KB/s
+ Rx Throughput : 3939000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 493000 KB/s
+ Rx Throughput : 4118000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 485000 KB/s
+ Rx Throughput : 5062000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 9834000 KB/s
+ Rx Throughput : 9834000 KB/s
+ Gpu : 100 %
+2018-01-10_22-10-50  Bus Id : 0000:05:00.0
+ Tx Throughput : 495000 KB/s
+ Rx Throughput : 3339000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 351000 KB/s
+ Rx Throughput : 2803000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 543000 KB/s
+ Rx Throughput : 4230000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 496000 KB/s
+ Rx Throughput : 3828000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-51  Bus Id : 0000:05:00.0
+ Tx Throughput : 1023000 KB/s
+ Rx Throughput : 3903000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 462000 KB/s
+ Rx Throughput : 3569000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 59000 KB/s
+ Rx Throughput : 2913000 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 330000 KB/s
+ Rx Throughput : 2949000 KB/s
+ Gpu : 97 %
+2018-01-10_22-10-52  Bus Id : 0000:05:00.0
+ Tx Throughput : 487000 KB/s
+ Rx Throughput : 4060000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 500000 KB/s
+ Rx Throughput : 4012000 KB/s
+ Gpu : 98 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 518000 KB/s
+ Rx Throughput : 3973000 KB/s
+ Gpu : 99 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 3406000 KB/s
+ Rx Throughput : 10133000 KB/s
+ Gpu : 99 %
+2018-01-10_22-10-53  Bus Id : 0000:05:00.0
+ Tx Throughput : 4194000 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 100 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 97 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 28 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-10-53  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-10-54  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+2018-01-10_22-10-55  Bus Id : 0000:05:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:08:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:0D:00.0
+ Tx Throughput : 0 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %
+ Bus Id : 0000:13:00.0
+ Tx Throughput : 3000 KB/s
+ Rx Throughput : 0 KB/s
+ Gpu : 0 %

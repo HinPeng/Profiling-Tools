@@ -1,2 +1,0 @@
-Avg images/sec: 167.08
-Avg images/sec: 169.79

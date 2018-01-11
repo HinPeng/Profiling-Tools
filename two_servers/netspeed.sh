@@ -1,12 +1,12 @@
 #!/bin/bash
-if [ $# != 4 ]; then
+if [ $# != 3 ]; then
     echo -e "nic parameter number wrong!\n"
     exit 1
 fi
 
 pid=$2
 prefix=$3
-freq=$4
+freq=1
 
 
 if [ -z "$1" ]; then

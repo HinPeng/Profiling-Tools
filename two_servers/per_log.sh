@@ -2,8 +2,8 @@ log_dir="per_log/"
 mkdir -p $log_dir
 cuda_devices="0 0,1 0,1,2,3"
 #cuda_devices="0"
-models="alexnet vgg16 inception3 resnet50"
-#models="alexnet"
+models="alexnet inception3 resnet50"
+#models="vgg16"
 batch_size='64'
 num_batches="100"
 
@@ -26,7 +26,7 @@ do
 
         for cuda_device in $cuda_devices
         do
-            prefix=$model"_"
+            prefix=$model"_"$batch_size"_"
             if [ "$cuda_device" = "0" ]; then
                 filename_prefix=$log_dir$prefix"1.txt"
                 run $cuda_device 1 $batch_size $num_batches $model $filename_prefix
