@@ -9,10 +9,11 @@ cuda_devices="0 0,1 0,1,2,3 0,1,2,3,4,5,6,7"
 models="alexnet vgg16 inception3 resnet50"
 #models="vgg16"
 
-batch_size='64'
+batch_sizes='64'
 num_batches='100'
 
-freq=0.5
+freq=1
+freq_ms=1000
 
 run(){
     echo 3 | sudo tee /proc/sys/vm/drop_caches
@@ -33,10 +34,10 @@ run(){
     # mesurement content
     ./cpu_mem.sh ${pid} $6 $freq &
     ./pcm.sh ${pid} $6 $freq &
-    ./smi.sh ${pid} $6 $1 $freq &
+    ./slow_smi.sh $6 $1 $freq_ms & smi_pid=$!    #For slow return smi
+    #./smi.sh ${pid} $6 $1 $freq &
     ./io.sh $6 & io_pid=$!
 
-#    smi_pid="$(ps -ef | grep 'smi.sh' | grep -v 'grep' | tr -s ' ' | cut -d ' ' -f 2)"
     while :
     do
         if ps -p $pid > /dev/null
@@ -47,29 +48,26 @@ run(){
         fi
     done
     kill $io_pid
-#    kill $smi_pid    #For slow return of smi
+    kill $smi_pid    #For slow return of smi
 }
 
 for model in $models             
 do
-    if [ "$model" = "alexnet" ]; then
-        batch_size='128'
-    else
-        batch_size='64'
-    fi
-
-    for cuda_device in $cuda_devices
+    for batch_size in $batch_sizes
     do
-        filename_prefix=$data_dir$model"_"$cuda_device
-        if [ "$cuda_device" = "0" ]; then
-            run $cuda_device 1 $batch_size $num_batches $model $filename_prefix
-        elif [ "$cuda_device" = "0,1" ]; then
-            run $cuda_device 2 $batch_size $num_batches $model $filename_prefix
-        elif [ "$cuda_device" = "0,1,2,3" ]; then
-            run $cuda_device 4 $batch_size $num_batches $model $filename_prefix
-        elif [ "$cuda_device" = "0,1,2,3,4,5,6,7" ]; then
-            run $cuda_device 8 $batch_size $num_batches $model $filename_prefix
-        fi
+        for cuda_device in $cuda_devices
+        do
+            filename_prefix=$data_dir$model"_"$batch_size"_"$cuda_device
+            if [ "$cuda_device" = "0" ]; then
+                run $cuda_device 1 $batch_size $num_batches $model $filename_prefix
+            elif [ "$cuda_device" = "0,1" ]; then
+                run $cuda_device 2 $batch_size $num_batches $model $filename_prefix
+            elif [ "$cuda_device" = "0,1,2,3" ]; then
+                run $cuda_device 4 $batch_size $num_batches $model $filename_prefix
+            elif [ "$cuda_device" = "0,1,2,3,4,5,6,7" ]; then
+                run $cuda_device 8 $batch_size $num_batches $model $filename_prefix
+            fi
+        done
     done
 done
 

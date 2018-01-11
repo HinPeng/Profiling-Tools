@@ -39,5 +39,5 @@ done
 #cuda_devices=$2
 #freq_ms=1000
 
-#nvidia-smi -a -i $cuda_devices -lms $freq_ms | grep "Bus Id\|Tx\|Rx\|Gpu" | tr -s ' ' >>${prefix}_smi.txt
+#nvidia-smi -a -i $cuda_devices -lms $freq_ms >>${prefix}_smi.txt
 
