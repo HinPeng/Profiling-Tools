@@ -58,16 +58,18 @@ run(){
     # mesurement content
     ./ps_cpu_mem.sh ${ps_pid} $6 $freq &
     ./wr_cpu_mem.sh ${wr_pid} $6 $freq &
-    ./slow_smi.sh $6 $1 $freq_ms & smi_pid=$!
+    ./slow_smi.sh $1 $freq_ms >> $[6}_smi.txt &
     #./smi.sh ${wr_pid} $6 $1 $freq &
     ./pcm.sh ${wr_pid} $6 $freq &
     ./netspeed.sh ib0 ${wr_pid} $6 &
     ./io.sh $6 & io_pid=$!
 
+    smi_pid="$(ps -eo pid,command | grep smi | grep -v grep | tr -s ' ' | cut -d ' ' -f 1)"
     while :
     do
         if ps -p $wr_pid > /dev/null
         then
+	    sleep 1
             continue
         else
             break

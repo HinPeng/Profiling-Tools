@@ -2,14 +2,14 @@ log_dir="per_log/"
 mkdir -p $log_dir
 cuda_devices="0 0,1 0,1,2,3 0,1,2,3,4,5,6,7"
 #cuda_devices="0"
-models="alexnet vgg16 inception3 resnet50"
-#models="alexnet"
-batch_sizes="64"
+#models="alexnet vgg16 inception3 resnet50"
+models="alexnet"
+batch_sizes="128 64 32"
 num_batches="100"
 
 run(){
     echo 3 | sudo tee /proc/sys/vm/drop_caches
-    ./dis_run_perf.sh $1 $2 $3 $4 $5 $6
+    ./local_run_perf.sh $1 $2 $3 $4 $5 $6
 }
 
 
@@ -21,7 +21,7 @@ do
         do
             for cuda_device in $cuda_devices
             do
-                prefix=$model"_"$batch_sizse"_"
+                prefix=$model"_"$batch_size"_"
                 if [ "$cuda_device" = "0" ]; then
                     filename_prefix=$log_dir$prefix"1.txt"
                     run $cuda_device 1 $batch_size $num_batches $model $filename_prefix
