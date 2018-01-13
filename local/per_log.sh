@@ -1,10 +1,10 @@
 log_dir="per_log/"
 mkdir -p $log_dir
-cuda_devices="0 0,1 0,1,2,3 0,1,2,3,4,5,6,7"
+cuda_devices="0,1,2,3 0,1,2,3,4,5,6,7"
 #cuda_devices="0"
 #models="alexnet vgg16 inception3 resnet50"
-models="alexnet"
-batch_sizes="128 64 32"
+models="inception3 resnet50"
+batch_sizes="8 16 32"
 num_batches="100"
 
 run(){

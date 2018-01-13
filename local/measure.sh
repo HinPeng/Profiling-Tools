@@ -3,13 +3,13 @@ mkdir -p $data_dir
 
 #work_dir="/home/fanyang/v-wencxi/"
 
-cuda_devices="0 0,1 0,1,2,3 0,1,2,3,4,5,6,7"
+cuda_devices="0 0,1"
 #cuda_devices="0"
 
-models="alexnet"
+models="inception3 resnet50"
 #models="vgg16"
 
-batch_sizes="128 512"
+batch_sizes="32"
 num_batches='100'
 
 freq=1
@@ -20,7 +20,7 @@ run(){
     while :
     do
         killall -9 python
-        ./local_run_prof.sh $1 $2 $3 $4 $5 & pid="$(top -b -n 1 | grep -w "python" | grep -w "R\|S" | cut -d ' ' -f 1)"
+        ./local_run_prof.sh $1 $2 $3 $4 $5 & pid="$(ps -eo pid,command | grep "python ../tf_cnn" | grep -v grep | cut -d ' ' -f 1)"
         if [ -z $pid ];then
             echo "Can not get the TF process pid, launch again!"
             continue
@@ -37,7 +37,7 @@ run(){
 #    ./smi.sh ${pid} $6 $1 $freq &
     ./io.sh $6 & io_pid=$!
 
-    smi_pid="$(ps -eo pid,command | grep smi | grep -v grep | tr -s ' ' | cut -d ' ' -f 1)"
+    #smi_pid="$(ps -eo pid,command | grep smi | grep -v grep | tr -s ' ' | cut -d ' ' -f 1)"
     while :
     do
         if ps -p $pid > /dev/null
@@ -49,7 +49,8 @@ run(){
         fi
     done
     kill $io_pid
-    kill $smi_pid    #For slow return of smi
+    #kill $smi_pid    #For slow return of smi
+    ./kill_smi.sh
 }
 
 for model in $models             

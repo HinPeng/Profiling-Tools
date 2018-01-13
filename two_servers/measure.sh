@@ -8,10 +8,10 @@ mkdir -p $data_dir
 #cuda_devices="0 0,1 0,1,2,3 0,1,2,3,4,5,6,7"
 cuda_devices="0 0,1 0,1,2,3"
 
-models="alexnet inception3 resnet50"
+models="vgg16 inception3 resnet50"
 #models="vgg16"
 
-batch_sizes="64"
+batch_sizes="8 16 32 64"
 num_batches="100"
 
 freq=1
@@ -58,13 +58,13 @@ run(){
     # mesurement content
     ./ps_cpu_mem.sh ${ps_pid} $6 $freq &
     ./wr_cpu_mem.sh ${wr_pid} $6 $freq &
-    ./slow_smi.sh $1 $freq_ms >> $[6}_smi.txt &
+    ./slow_smi.sh $1 $freq_ms >> ${6}_smi.txt &
     #./smi.sh ${wr_pid} $6 $1 $freq &
     ./pcm.sh ${wr_pid} $6 $freq &
     ./netspeed.sh ib0 ${wr_pid} $6 &
     ./io.sh $6 & io_pid=$!
 
-    smi_pid="$(ps -eo pid,command | grep smi | grep -v grep | tr -s ' ' | cut -d ' ' -f 1)"
+#    smi_pid="$(ps -eo pid,command | grep smi | grep -v grep | tr -s ' ' | cut -d ' ' -f 1)"
     while :
     do
         if ps -p $wr_pid > /dev/null
@@ -76,9 +76,32 @@ run(){
         fi
     done
     kill $io_pid
-    kill $smi_pid    #for slow return of nvidia-smi
+    #kill $smi_pid    #for slow return of nvidia-smi
+    ./kill_smi.sh
 }
 
+for model in $models             
+do
+    for batch_size in $batch_sizes
+    do
+        for cuda_device in $cuda_devices
+        do
+            filename_prefix=$data_dir$model"_"$batch_size"_"$cuda_device
+            if [ "$cuda_device" = "0" ]; then
+                run $cuda_device 1 $batch_size $num_batches $model $filename_prefix
+            elif [ "$cuda_device" = "0,1" ]; then
+                run $cuda_device 2 $batch_size $num_batches $model $filename_prefix
+            elif [ "$cuda_device" = "0,1,2,3" ]; then
+                run $cuda_device 4 $batch_size $num_batches $model $filename_prefix
+        #    elif [ "$cuda_device" = "0,1,2,3,4,5,6,7" ]; then
+         #       run $cuda_device 8 $batch_size $model $filename_prefix
+            fi
+        done
+    done
+done
+
+models="alexnet"
+batch_sizes="32 64 128 512"
 for model in $models             
 do
     for batch_size in $batch_sizes
