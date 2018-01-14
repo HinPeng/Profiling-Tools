@@ -16,31 +16,35 @@ def cpu_mem(in_p, out_p):
     return
 
 def smi(in_p, out_p):
-
-
     gpu=[]
     rx_t=[]
     tx_t=[]
+    tag=[]
 
-#    flag1=0
+    start=0
+    end=0
     lines=in_p.readlines()
-    for line in lines:
+    for index, line in enumerate(lines):
         if "Bus Id" in line:
-            continue
+            continue    # Ignore the GPU id.
 
-        tokens=line.split()
-        if "Tx" in line:
-            tx_t.append(float(tokens[3]))
-        elif "Rx" in line:
-            rx_t.append(float(tokens[3]))
-        elif "Gpu" in line:
-            gpu.append(float(tokens[2]))
+        if "Used GPU Memory" in line:
+            tag.append(index)
+        else:
+            tokens=line.split()
+            if "Tx" in line:
+                tx_t.append(float(tokens[3]))
+            elif "Rx" in line:
+                rx_t.append(float(tokens[3]))
+            elif "Gpu" in line:
+                gpu.append(float(tokens[2]))
 
 
-    start=int(0.1*len(gpu))
-    gpu=gpu[start:]
-    tx_t=tx_t[start:]
-    rx_t=rx_t[start:]
+    start=(tag[0]-1)/4
+    end=len(tag)
+    gpu=gpu[start:end]
+    tx_t=tx_t[start:end]
+    rx_t=rx_t[start:end]
 
     out_p.write("GPU average usage: "+str(sum(gpu)/len(gpu))+"\n")
     out_p.write("GPU average tx throughput: "+str(sum(tx_t)/len(tx_t)/1024)+"\n")
@@ -72,7 +76,7 @@ full_filename=sys.argv[1]
 out_filename='sum_result.txt'
 
 in_p=open(full_filename, 'r')
-out_p=open(out_filename, 'a+')
+out_p=open(out_filename, 'w')
 
 filename=full_filename.split('/')[-1]
 tokens=filename.split('_')
