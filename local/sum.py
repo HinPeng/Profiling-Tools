@@ -1,6 +1,7 @@
 import sys
+import math
 
-def cpu_mem(in_p, out_p, start, end):
+def cpu_mem(in_p, out_p):
     cpu=[]
     mem=[]
 
@@ -10,6 +11,9 @@ def cpu_mem(in_p, out_p, start, end):
         cpu.append(float(tokens[1]))
         mem.append(float(tokens[2]))
 
+    #hack number
+    start=int(len(cpu)*0.6)
+    end=int(len(cpu)*0.3)+start
     cpu=cpu[start:end]
     mem=mem[start:end]
 
@@ -24,8 +28,6 @@ def smi(in_p, out_p):
     tx_t=[]
     tag=[]
 
-    start=0
-    end=0
     lines=in_p.readlines()
     for index, line in enumerate(lines):
         if "Bus Id" in line:
@@ -42,11 +44,10 @@ def smi(in_p, out_p):
             elif "Gpu" in line:
                 gpu.append(float(tokens[2]))
 
-    #hack_num=len(tag) * 0.2
-    start=tag[0]/4 + int(len(tag)*0.1)
-    end=int(len(tag)*0.8) + start
-    #start=tag[0]/4
-    #end=int(len(tag)) + start
+    #hack_num
+    start=int(math.ceil(tag[0]/4.0) + math.ceil(len(tag)*0.6))
+    end=int(len(tag)*0.3) + start
+
     gpu=gpu[start:end]
     tx_t=tx_t[start:end]
     rx_t=rx_t[start:end]
@@ -54,10 +55,14 @@ def smi(in_p, out_p):
     out_p.write("GPU average usage: "+str(sum(gpu)/len(gpu))+"\n")
     out_p.write("GPU average tx throughput: "+str(sum(tx_t)/len(tx_t)/1024)+"\n")
     out_p.write("GPU average rx throughput: "+str(sum(rx_t)/len(rx_t)/1024)+"\n")
-                    
-    return start,end
 
-def disk(in_p, out_p, start, end):
+
+#    s=int(math.ceil(tag[0]/device_num/4.0) + math.ceil(len(tag)/device_num*0.6))
+ #   e=int(len(tag)/device_num*0.3)+s        
+                    
+    return 
+
+def disk(in_p, out_p):
     d_read=[]
     d_write=[]
     d_util=[]
@@ -71,8 +76,11 @@ def disk(in_p, out_p, start, end):
             d_util.append(float(tokens[13]))
 
     #Not work for I/O, due to prefetching?
-    #d_read=d_read[start:end]
-    #d_util=d_util[start:end]
+    #hack number
+    start=int(len(d_read)*0.6)
+    end=int(len(d_read)*0.3)+start
+    d_read=d_read[start:end]
+    d_util=d_util[start:end]
 
     out_p.write("Disk average reading bandwidth: "+str(sum(d_read)/len(d_read))+"\n")
 #    out_p.write("Disk average writing bandwidth: "+str(sum(d_write)/len(d_write))+"\n")
@@ -84,21 +92,23 @@ model=sys.argv[1]
 batch_size=sys.argv[2]
 cuda_devices=sys.argv[3]
 
-dir_prefix="data/"
+dir_prefix="prof_data/"
 prefix=dir_prefix+model+'_'+batch_size+'_'+cuda_devices+'_'
 cpu_file=open(prefix+'cpu_mem.txt', 'r')
 smi_file=open(prefix+'smi.txt', 'r')
 io_file=open(prefix+'io.txt', 'r')
 
-out_filename=model+'_result.txt'
+out_dir="log/"
+out_filename=out_dir+model+'_result.txt'
 out_p=open(out_filename, 'a')
 out_p.write(model+'_'+batch_size+'_'+cuda_devices+'\n')
 
 
 #filename=full_filename.split('/')[-1]
 #tokens=filename.split('_')
-#out_p.write(tokens[0]+'\t'+tokens[1]+'\t'+tokens[2]+'\n')
-tu=smi(smi_file, out_p)
+#out_p.write(tokens[0]+'\t'+tokens[1]+'\t'+tokens[2]+'\n
+#device_num=len(cuda_devices.split(','))
+smi(smi_file, out_p) 
 
-cpu_mem(cpu_file, out_p, tu[0], tu[1])
-disk(io_file, out_p, tu[0], tu[1])
+cpu_mem(cpu_file, out_p)
+#disk(io_file, out_p)

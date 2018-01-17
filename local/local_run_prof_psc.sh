@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=$1  python ../tf_cnn_benchmarks.py --local_parameter_device=cpu --cvds=$1 --num_gpus=$2 --batch_size=$3 --num_batches=$4 --model=$5 --prefix=$6 --use_nccl=true --measure=true --variable_update=parameter_server --data_dir=/home/fanyang/imagenet/raw-data/tmp --data_name=imagenet 
