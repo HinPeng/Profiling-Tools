@@ -9,6 +9,7 @@ then
     #./pcm.sh $pid > ${prefix}_pcm.txt &
     ./cpu_mem.sh $pid > ${prefix}_cpu.txt &
     ./smi.sh $pid $cuda_devices > ${prefix}_smi.txt &
+    ./netspeed.sh ib0 $pid > ${prefix}_nic.txt &
     iostat -x -d sda -t 1 > ${prefix}_io.txt & io_pid=$!
 
     smi_pid="$(ps -eo pid,command | grep smi | grep -v grep | tr -s ' ' | cut -d ' ' -f 1)"
@@ -27,5 +28,4 @@ then
     kill $smi_pid    #For slow return of smi
 elif [ "ps" = $job_name ]
     ./cpu_mem.sh $pid > ${prefix}_pscpu.txt
-
-
+fi

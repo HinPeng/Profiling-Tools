@@ -32,7 +32,7 @@ import numpy as np
 import six
 from six.moves import xrange  # pylint: disable=redefined-builtin
 
-# For import tensorflow module
+# For import tensorflow module, not necessary if the environment of tensorflow is OK.
 import sys
 sys.path.insert(1,'/root/.local/lib/python2.7/site-packages')
 # =============================================================================
@@ -211,8 +211,8 @@ tf.flags.DEFINE_string('result_storage', None,
 
 # Measurement or not
 tf.flags.DEFINE_boolean('measure', False, '')
-tf.flags.DEFINE_string('prefix', None, '')
-tf.flags.DEFINE_string('cvds', None, '')
+tf.flags.DEFINE_string('prefix', None, 'where to save the profiling data')
+tf.flags.DEFINE_string('cvds', None, 'CUDA_VISIBLE_DEVICES')
 FLAGS = tf.flags.FLAGS
 
 log_fn = print   # tf.logging.info
@@ -1040,7 +1040,7 @@ class BenchmarkCNN(object):
 
         #add for measurement
         if measure:
-          os.system('./measure_once.sh %s %s %s &' % (FLAGS.prefix, os.getpid(), FLAGS.cvds))
+          os.system('./measure_once.sh %s %s %s %s &' % (FLAGS.prefix, os.getpid(), FLAGS.cvds, FLAGS.job_name))
           measure=False
           
         summary_str = benchmark_one_step(
