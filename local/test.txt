@@ -1,0 +1,6 @@
+Avg images/sec: 118.75
+Avg images/sec: 120.83
+Avg images/sec: 144.80
+Avg images/sec: 146.02
+Avg images/sec: 717.72
+Avg images/sec: 715.74

@@ -1,0 +1,78 @@
+Avg images/sec: 1200.99
+1123.48
+Avg images/sec: 904.71
+1197.26
+410.017
+Avg images/sec: 722.24
+1324.06
+Avg images/sec: 371.11
+235.277
+Avg images/sec: 681.11
+165.544
+Avg images/sec: 859.88
+148.907
+Avg images/sec: 359.01
+63.452
+Avg images/sec: 611.24
+47.8467
+Avg images/sec: 347.62
+35.3078
+Avg images/sec: 552.14
+27.6196
+Avg images/sec: 606.84
+26.5866
+Avg images/sec: 727.07
+43.409
+Avg images/sec: 57.30
+1084.91
+Avg images/sec: 56.16
+279.376
+Avg images/sec: 57.01
+142.076
+Avg images/sec: 714.51
+Avg images/sec: 728.22
+Avg images/sec: 481.10
+17.8731
+Avg images/sec: 456.97
+18.7504
+Avg images/sec: 317.29
+21.8098
+Avg images/sec: 56.89
+74.3365
+Avg images/sec: 518.88
+191.176
+Avg images/sec: 113.77
+584.692
+Avg images/sec: 140.45
+68.2137
+Avg images/sec: 353.67
+20.99
+Avg images/sec: 368.30
+20.6038
+Avg images/sec: 372.73
+19.9885
+Avg images/sec: 412.48
+19.1785
+Avg images/sec: 469.11
+18.501
+Avg images/sec: 140.38
+77.7622
+Avg images/sec: 1217.87
+Avg images/sec: 1236.00
+Avg images/sec: 1160.27
+Avg images/sec: 735.40
+Avg images/sec: 699.01
+Avg images/sec: 816.49
+Avg images/sec: 683.90
+Avg images/sec: 716.45
+Avg images/sec: 823.31
+Avg images/sec: 735.82
+Avg images/sec: 1043.33
+Avg images/sec: 857.52
+Avg images/sec: 466.49
+Avg images/sec: 407.19
+Avg images/sec: 388.65
+Avg images/sec: 362.09
+Avg images/sec: 3.84
+Avg images/sec: 2.49
+Avg images/sec: 2.49

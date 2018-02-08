@@ -3,8 +3,8 @@ for pid in $pids
 do
     if ps -p $pid > /dev/null
     then
-	sudo kill -9 $pid
+	    sudo kill -9 $pid
     else
-	continue
+	    continue
     fi
 done
