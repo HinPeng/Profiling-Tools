@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES="" python ../tf_cnn_benchmarks.py --local_parameter_device='cpu' --job_name="ps" --worker_hosts=$7 --ps_hosts=$8 --model=$5 --variable_update="parameter_server" --task_index=$9 &
+CUDA_VISIBLE_DEVICES=$1 python ../tf_cnn_benchmarks.py  --num_gpus=$2 --job_name="worker" --worker_hosts=$7 --ps_hosts=$8 --batch_size=$3 --num_batches=$4 --model=$5 --use_nccl='True' --variable_update="parameter_server" --task_index=$9 --data_dir='/home/core/imagenet/raw-data/tmp/' --data_name=imagenet | grep 'Avg images/sec' >> $6
