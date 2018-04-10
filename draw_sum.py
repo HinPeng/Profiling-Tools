@@ -63,6 +63,33 @@ def plotting_cpu(cpu, title, option):
 
     return
 
+def plotting_gpu(gpu, title, option):
+    '''
+    Plot the data points using pyplot.
+    '''
+    if option == 0:        
+        data_x = list(map(lambda x: x * FREQ, range(len(gpu))))
+        plt.plot(data_x, gpu, color='r', linewidth=0.5, label='GPU')
+        plt.title(title)
+        plt.xlabel('Time / s')
+        plt.ylabel('GPU usage')
+        plt.legend(loc='best')
+        plt.savefig('profiling_results/%s.pdf' % title, format='pdf')
+        plt.clf()
+    else:
+        title+='CDF'
+        gpu.sort()
+        count=len(gpu)
+        data_y=list(map(lambda x: x/count, range(len(gpu))))
+        plt.plot(gpu, data_y, color='r', linewidth=2.0, label='GPU')
+        plt.title(title)
+        plt.xlabel('GPU usage')
+        plt.legend(loc='best')
+        plt.savefig('profiling_results/%s.pdf' % title, format='pdf')
+        plt.clf()
+
+    return
+
 def plotting_smi(tx, rx, title, option):
     '''
     Plot the data points using pyplot.
@@ -108,7 +135,7 @@ def nic(in_p, sum_file, title):
 #        rx_p.write(tokens[5]+'\n')
 
     title+='nic'
-    plotting_network(nic_tx, nic_rx, title, 1)
+#    plotting_network(nic_tx, nic_rx, title, 1)
     
     #hack_num
     start=int(len(nic_tx)*0.25)
@@ -147,14 +174,17 @@ def wr_cpu(in_p, sum_file, title):
     lines=in_p.readlines()
     for line in lines:
         tokens=line.split()
-        cpu.append(float(tokens[1]))
-  #      mem.append(float(tokens[2]))
+        if tokens[1].isalpha():
+            cpu.append(float(tokens[2]))
+        else:
+            cpu.append(float(tokens[1]))
+            #      mem.append(float(tokens[2]))
 
  #   out_p.write('cpu average usage: '+str(sum(cpu)/len(cpu))+'\n')
 #    out_p.write('memory max usage: '+str(max(mem)*515880/102400)+'\n')
 
     title+='wr_cpu'
-    plotting_cpu(cpu, title, 1)
+#    plotting_cpu(cpu, title, 1)
 
     #hack number
     start=int(len(cpu)*0.25)
@@ -188,31 +218,31 @@ def smi(in_p, sum_file, title):
             tag.append(index)
         else:
             tokens=line.split()
-            if "Tx" in line:
-                tx_t.append(float(tokens[3])/1024)
-            elif "Rx" in line:
-                rx_t.append(float(tokens[3])/1024)
-            elif "Gpu" in line:
+#            if "Tx" in line:
+#                tx_t.append(float(tokens[3])/1024)
+#            elif "Rx" in line:
+#                rx_t.append(float(tokens[3])/1024)
+            if "Gpu" in line:
                 gpu.append(float(tokens[2]))
 
     title+='smi'
-    plotting_smi(tx, rx, title, 1)
+#    plotting_gpu(gpu, title, 0)
 
     #hack_num
     start=int(tag[0]/4.0) + int(len(tag)*0.25)
     end=int(len(tag)*0.6) + start
 
     gpu=gpu[start:end]
-    tx_t=tx_t[start:end]
-    rx_t=rx_t[start:end]
+#    tx_t=tx_t[start:end]
+#    rx_t=rx_t[start:end]
 
-    sum_file.write("GPU average tx throughput: "+str(sum(tx_t)/len(tx_t))+"\n")
     sum_file.write("GPU average usage: "+str(sum(gpu)/len(gpu))+"\n")
-    sum_file.write("GPU average rx throughput: "+str(sum(rx_t)/len(rx_t))+"\n")
+#    sum_file.write("GPU average tx throughput: "+str(sum(tx_t)/len(tx_t))+"\n")
+#    sum_file.write("GPU average rx throughput: "+str(sum(rx_t)/len(rx_t))+"\n")
             
     return
-'''
-def disk(in_p, out_p):
+
+def disk(in_p, sum_file, title):
     d_read=[]
     d_write=[]
     d_util=[]
@@ -225,41 +255,47 @@ def disk(in_p, out_p):
             d_write.append(float(tokens[6])/1024)
             d_util.append(float(tokens[13]))
 
-    out_p.write("Disk average reading bandwidth: "+str(sum(d_read)/len(d_read))+"\n")
+    #hack_num
+    start=int(len(d_read)*0.25)
+    end=int(len(d_read)*0.6) + start
+
+    d_read=d_read[start:end]
+    d_write=d_write[start:end]
+    d_util=d_util[start:end]
+
+    sum_file.write("Disk average reading bandwidth: "+str(sum(d_read)/len(d_read))+"\n")
 #    out_p.write("Disk average writing bandwidth: "+str(sum(d_write)/len(d_write))+"\n")
-    out_p.write("Disk average utilization: "+str(sum(d_util)/len(d_util))+"\n")
+    sum_file.write("Disk average utilization: "+str(sum(d_util)/len(d_util))+"\n")
 
     return
-'''
+
 
 model=sys.argv[1]
 batch_size=sys.argv[2]
 cuda_devices=sys.argv[3]
 
-dir_prefix="prof_log_ps/"
+dir_prefix="prof_log_2_23_qsmi/"
 prefix=dir_prefix+model+'_'+batch_size+'_'+cuda_devices+'_'
 title=model+'_'+batch_size+'_'+cuda_devices+'_'
 
 ps_cpu_file=open(prefix+'cpu.txt')
 smi_file=open(prefix+'smi.txt', 'r')
 nic_file=open(prefix+'nic.txt', 'r')
-sum_file=open("profile_summary.txt", 'a')
-
 #io_file=open(prefix+'io.txt', 'r')
+sum_file=open("profile_summary_23.txt", 'a')
 
 #filename=full_filename.split('/')[-1]
 #tokens=filename.split('_')
-#out_p.write(tokens[0]+'\t'+tokens[1]+'\t'+tokens[2]+'\n
-#device_num=len(cuda_devices.split(','))
-#tu=smi(smi_file, out_p, device_num) 
-#smi(cpu_file, rx_p, tx_p, gpu_p)
+
 wr_cpu(ps_cpu_file, sum_file, title)
 smi(smi_file, sum_file, title)
+#disk(io_file, sum_file, title)
 nic(nic_file, sum_file, title)
 
 ps_cpu_file.close()
 smi_file.close()
 nic_file.close()
+#io_file.close()
 sum_file.close()
 #gpu_p.close()
 
